@@ -1,4 +1,5 @@
-
+#specify what we what to test
+#yml自带generic test 代码
 version: 2
 
 models:
